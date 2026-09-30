@@ -1,4 +1,6 @@
 # Portafolio Web Personal
+# Hernández Guzmán Concepción Escarleth
+# Programación Web
 
 ## Descripción breve
 
@@ -39,7 +41,7 @@ Aquí muestro algunas de las tecnologías, herramientas y conocimientos que he a
 
 En esta sección agregué algunos de los proyectos y trabajos que he realizado. Los proyectos están organizados para que sea más fácil visualizar los diferentes trabajos.
 
-### Testimonios
+### Formación
 
 Esta sección utiliza un carrusel para mostrar diferentes elementos. Para su funcionamiento se utiliza la librería Swiper.
 
@@ -114,7 +116,4 @@ En esta captura se muestra el resultado final de mi portafolio funcionando desde
 
 ## Créditos
 
-Para realizar este proyecto utilicé como base una plantilla gratuita proporcionada por TemplatesJungle, la cual fue modificada y personalizada para realizar mi portafolio web personal.
 
-**TemplatesJungle:**  
-[https://templatesjungle.com/](https://templatesjungle.com/)
