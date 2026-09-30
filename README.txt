@@ -1,8 +1,12 @@
-## Actividad 4 Portafolio
+# Portafolio Web Personal
 
-PORTAFOLIO WEB PERSONAL
-Este proyecto es mi portafolio web personal, realizado a partir de una plantilla.
-Para su desarrollo utilicé HTML, CSS, JavaScript, Bootstrap y algunas librerías de JavaScript.
+## Descripción breve
+
+Este proyecto consiste en la creación de mi portafolio web personal, en el cual presento información sobre mí, mis habilidades y algunos de los proyectos que he realizado durante mi formación académica.
+
+Para realizarlo utilicé una plantilla como base y fui modificando su contenido y diseño para adaptarlo a mi información y al estilo que quería para mi portafolio.
+
+---
 
 ## Descripción del proyecto
 
@@ -10,9 +14,10 @@ Para desarrollar mi portafolio utilicé **Bootstrap** como framework CSS. La pla
 
 A partir de esta plantilla realicé diferentes modificaciones en HTML, CSS y JavaScript para personalizarla y convertirla en mi propio portafolio.
 
-Plantilla utilizada:
-https://templatesjungle.com/
+**Plantilla utilizada:**  
+[TemplatesJungle](https://templatesjungle.com/)
 
+---
 
 ## Secciones de mi portafolio
 
@@ -42,6 +47,7 @@ Esta sección utiliza un carrusel para mostrar diferentes elementos. Para su fun
 
 Finalmente, agregué una sección de contacto para mostrar los medios por los cuales pueden comunicarse conmigo.
 
+---
 
 ## Proceso de creación
 
@@ -61,6 +67,7 @@ Una vez terminadas las modificaciones probé el portafolio en el navegador para 
 
 Finalmente, subí todos los archivos de mi proyecto a GitHub para tener el código almacenado en un repositorio y posteriormente publicarlo utilizando GitHub Pages.
 
+---
 
 ## Capturas de pantalla
 
@@ -90,6 +97,7 @@ Aquí se pueden observar algunos de los proyectos que agregué a mi portafolio.
 
 En esta captura se muestra el resultado final de mi portafolio funcionando desde el navegador.
 
+---
 
 ## Tecnologías utilizadas
 
@@ -102,10 +110,11 @@ En esta captura se muestra el resultado final de mi portafolio funcionando desde
 - Isotope
 - Git y GitHub
 
+---
 
 ## Créditos
 
 Para realizar este proyecto utilicé como base una plantilla gratuita proporcionada por TemplatesJungle, la cual fue modificada y personalizada para realizar mi portafolio web personal.
 
-TemplatesJungle:
-https://templatesjungle.com/
+**TemplatesJungle:**  
+[https://templatesjungle.com/](https://templatesjungle.com/)
