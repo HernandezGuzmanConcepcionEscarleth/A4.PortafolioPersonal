@@ -17,7 +17,7 @@ Para desarrollar mi portafolio utilicé **Bootstrap** como framework CSS. La pla
 A partir de esta plantilla realicé diferentes modificaciones en HTML, CSS y JavaScript para personalizarla y convertirla en mi propio portafolio.
 
 **Plantilla utilizada:**  
-[TemplatesJungle](https://templatesjungle.com/)
+https://themewagon.com/themes/jessica/
 
 ---
 
