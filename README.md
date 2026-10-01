@@ -2,14 +2,6 @@
 # Hernández Guzmán Concepción Escarleth
 # Programación Web
 
-## Descripción breve
-
-Este proyecto consiste en la creación de mi portafolio web personal, en el cual presento información sobre mí, mis habilidades y algunos de los proyectos que he realizado durante mi formación académica.
-
-Para realizarlo utilicé una plantilla como base y fui modificando su contenido y diseño para adaptarlo a mi información y al estilo que quería para mi portafolio.
-
----
-
 ## Descripción del proyecto
 
 Para desarrollar mi portafolio utilicé **Bootstrap** como framework CSS. La plantilla que tomé como base fue **Jessica - Portfolio HTML Template**, proporcionada por TemplatesJungle.
@@ -69,37 +61,24 @@ En la parte de JavaScript revisé las funciones que utilizaba la plantilla. Cons
 
 Una vez terminadas las modificaciones probé el portafolio en el navegador para comprobar que las imágenes, botones, secciones y demás elementos funcionaran correctamente.
 
-Finalmente, subí todos los archivos de mi proyecto a GitHub para tener el código almacenado en un repositorio y posteriormente publicarlo utilizando GitHub Pages.
-
 ---
 
 ## Capturas de pantalla
 
-A continuación agrego algunas capturas de mi portafolio funcionando en el navegador.
-
 ### Página de inicio
-
-![Página de inicio](images/captura-inicio.png)
-
-En esta captura se puede observar la página principal de mi portafolio y la presentación inicial.
+<img width="2546" height="1362" alt="Captura de pantalla 2026-09-30 175547" src="https://github.com/user-attachments/assets/209121af-c850-4829-bfd4-baeab4269066" />
 
 ### Sección sobre mí
-
-![Sobre mí](images/captura-sobre-mi.png)
-
-En esta sección se muestra la información que agregué sobre mí y mi formación.
+<img width="2528" height="1326" alt="Captura de pantalla 2026-09-30 175704" src="https://github.com/user-attachments/assets/e1bede95-a19e-4512-817b-4e9b8654fb16" />
 
 ### Sección de proyectos
+<img width="2546" height="1324" alt="Captura de pantalla 2026-09-30 175737" src="https://github.com/user-attachments/assets/1ad9a2a4-69cb-4c68-8faf-6ece7773a8dc" />
 
-![Proyectos](images/captura-proyectos.png)
+### Habilidades
+<img width="2542" height="1330" alt="Captura de pantalla 2026-09-30 175819" src="https://github.com/user-attachments/assets/58d85781-3d8b-4a4e-9bce-04884f7e66a3" />
 
-Aquí se pueden observar algunos de los proyectos que agregué a mi portafolio.
-
-### Portafolio publicado
-
-![Portafolio publicado](images/captura-portafolio.png)
-
-En esta captura se muestra el resultado final de mi portafolio funcionando desde el navegador.
+### Contacto
+<img width="2546" height="1316" alt="Captura de pantalla 2026-09-30 175921" src="https://github.com/user-attachments/assets/bdcaeca6-a797-46f1-94be-3fc790f9c25c" />
 
 ---
 
@@ -117,5 +96,7 @@ En esta captura se muestra el resultado final de mi portafolio funcionando desde
 ---
 
 ## Créditos
+Créditos de la plantilla: TemplatesJungle
+https://templatesjungle.com/
 
 
