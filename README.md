@@ -6,7 +6,7 @@
 **Demo en vivo:**
 https://hernandezguzmanconcepcionescarleth.github.io/A4.PortafolioPersonal/
 
-Para desarrollar mi portafolio utilicé **Bootstrap** como framework CSS. La plantilla que tomé como base fue **Jessica - Portfolio HTML Template**, proporcionada por TemplatesJungle.
+Para desarrollar mi portafolio utilicé **Bootstrap** (CSS). La plantilla que tomé como base fue **Jessica - Portfolio HTML Template**, proporcionada por TemplatesJungle.
 
 A partir de esta plantilla realicé diferentes modificaciones en HTML, CSS y JavaScript para personalizarla y convertirla en mi propio portafolio.
 
