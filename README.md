@@ -91,9 +91,7 @@ Una vez terminadas las modificaciones probé el portafolio en el navegador para 
 - JavaScript
 - Bootstrap
 - jQuery
-- Swiper
-- Isotope
-- Git y GitHub
+  
 
 ---
 
